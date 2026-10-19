@@ -42,10 +42,10 @@ portal:
                 -
                     style: card
                     buttonSize: inline
-                    title: Project HOSTESS
-                    description: My ongoing project of creating a task management system
-                    url: https://GitHub.com/Project-HOSTESS
-                    thumbnailUrl: https://avatars.githubusercontent.com/u/63386149?v=4?s=400
+                    title: Deadass Simple
+                    description: A new brand I'm starting for reliable no-frills apps
+                    url: https://GitHub.com/DeadassSimple
+                    thumbnailUrl: https://avatars.githubusercontent.com/u/343705368?v=4?s=400
 ---
 
 ## I organize my work across a few places in GitHub
